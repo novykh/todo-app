@@ -1,26 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Fragment } from "react";
+import { Router } from "@reach/router";
+import Todos from "./providers/todos";
+import TodoList from "./components/todoList";
+import Footer from "./components/footer";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import "todomvc-app-css/index.css";
+
+const App = () => (
+  <Fragment>
+    <Todos.Provider>
+      <Router>
+        <TodoList path="/" />
+        <TodoList path=":status" />
+      </Router>
+    </Todos.Provider>
+    <Footer />
+  </Fragment>
+);
 
 export default App;
