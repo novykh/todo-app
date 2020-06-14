@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.b3858987.chunk.js",
-    "main.js.map": "/static/js/main.b3858987.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83d208e6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83d208e6.js.map",
-    "static/css/2.f124e354.chunk.css": "/static/css/2.f124e354.chunk.css",
-    "static/js/2.71b515ce.chunk.js": "/static/js/2.71b515ce.chunk.js",
-    "static/js/2.71b515ce.chunk.js.map": "/static/js/2.71b515ce.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9b50c7f9042619789ff621f8dd291f4c.js": "/precache-manifest.9b50c7f9042619789ff621f8dd291f4c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.f124e354.chunk.css.map": "/static/css/2.f124e354.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.71b515ce.chunk.js.LICENSE.txt": "/static/js/2.71b515ce.chunk.js.LICENSE.txt"
+    "main.css": "/my-todo-app-with-hoax/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/my-todo-app-with-hoax/static/js/main.de222b37.chunk.js",
+    "main.js.map": "/my-todo-app-with-hoax/static/js/main.de222b37.chunk.js.map",
+    "runtime-main.js": "/my-todo-app-with-hoax/static/js/runtime-main.5d206b2e.js",
+    "runtime-main.js.map": "/my-todo-app-with-hoax/static/js/runtime-main.5d206b2e.js.map",
+    "static/css/2.f124e354.chunk.css": "/my-todo-app-with-hoax/static/css/2.f124e354.chunk.css",
+    "static/js/2.032bcfa4.chunk.js": "/my-todo-app-with-hoax/static/js/2.032bcfa4.chunk.js",
+    "static/js/2.032bcfa4.chunk.js.map": "/my-todo-app-with-hoax/static/js/2.032bcfa4.chunk.js.map",
+    "index.html": "/my-todo-app-with-hoax/index.html",
+    "precache-manifest.ebe693723289649e138063ab6ce087c5.js": "/my-todo-app-with-hoax/precache-manifest.ebe693723289649e138063ab6ce087c5.js",
+    "service-worker.js": "/my-todo-app-with-hoax/service-worker.js",
+    "static/css/2.f124e354.chunk.css.map": "/my-todo-app-with-hoax/static/css/2.f124e354.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/my-todo-app-with-hoax/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.032bcfa4.chunk.js.LICENSE.txt": "/my-todo-app-with-hoax/static/js/2.032bcfa4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83d208e6.js",
+    "static/js/runtime-main.5d206b2e.js",
     "static/css/2.f124e354.chunk.css",
-    "static/js/2.71b515ce.chunk.js",
+    "static/js/2.032bcfa4.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b3858987.chunk.js"
+    "static/js/main.de222b37.chunk.js"
   ]
 }
